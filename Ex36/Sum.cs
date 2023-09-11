@@ -6,7 +6,7 @@ class Method3
 
         for (int i = 0; i < array.Length; i++)
         {
-            if (i%2==0)
+            if (i%2!=0)
             {
                 q = q + array[i];
             }
