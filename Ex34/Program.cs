@@ -8,5 +8,4 @@ Method3 met3 = new Method3();
 met1.Rand(array);
 met2.Write(array);
 met3.Count(array);
-Console.WriteLine(" ");
-Console.WriteLine(Method3.q);
+Console.WriteLine($" -> {Method3.q}");
